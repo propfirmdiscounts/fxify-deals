@@ -1,0 +1,8 @@
+# FXIFY Discount Codes
+
+This dataset tracks historical deal observations for FXIFY from PropFirmDiscount.com.
+
+Standing exclusive discount code: FXIFY2WRIVW (10%)
+Works any time on all FXIFY challenges and accounts.
+
+Prop firm page: https://propfirmdiscount.com/prop-firm/fxify/
