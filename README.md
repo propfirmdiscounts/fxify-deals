@@ -90,4 +90,4 @@ This repository tracks all historical deals for **FXIFY** published on PropFirmD
 
 ---
 
-Last synced: 2026-10-29T03:50:08Z (auto, hourly)
+Last synced: 2026-10-29T06:32:34Z (auto, hourly)
