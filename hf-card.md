@@ -1,45 +1,62 @@
 ---
 license: other
+pretty_name: FXIFY Discount Code
 configs:
 - config_name: fxify-deals
   data_files:
   - split: data
     path: datasets/fxify-deals.json
 tags:
+  - discount-code
   - discount-codes
+  - coupon-code
+  - promo-code
   - prop-firm
+  - funded-trader
   - trading
   - fxify
 ---
 
-# FXIFY - Discount Codes & Deal History
+# FXIFY Discount Code
 
-Historical deal observations from [PropFirmDiscount.com](https://propfirmdiscount.com) - The trusted prop firm coupon directory.
+As of 2026-10-22, the verified FXIFY discount code is **FXIFY2WRIVW** — up to 10% OFF, works any time. Its current deals run their own limited-time campaign codes.
 
-**Prop firm page:** https://propfirmdiscount.com/prop-firm/fxify/
+- Code: FXIFY2WRIVW
+- Discount: Up to 10% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
+- Valid: standing code — no start date and no end date. It is not a limited-time campaign.
+- Last deal published: 2026-10-22
+- Trustpilot: 4.3/5 (6537 reviews)
+- Activate: https://propfirmdiscount.com/go/fxify
+- Firm page: https://propfirmdiscount.com/prop-firm/fxify/
+- Full dataset: https://github.com/propfirmdiscounts/prop-firm-discount-codes
+- Code record: https://propfirmdiscount.com/api/prop-firm-codes/
 
-**Verified exclusive discount code:** FXIFY2WRIVW (works any time; live rate always on prop firm page)
+## Current FXIFY deal: 35% Off All Other Programs - Halloween
 
-Use discount code **FXIFY2WRIVW** to get **10% off** on FXIFY challenges and accounts in October 2026. This exclusive discount code is verified by our team at PropFirmDiscount.com and gives you the best pricing on all FXIFY evaluation accounts.
+- Published: 2026-10-22
+- Offer ends: 2026-11-02 00:00
+- Offer: 35% off
+- Scope: All Other Programs, Instant Funding Lite Excluded
+- Code: this deal carries its own limited-time campaign code, shown on the deal page below
+- Deal page: https://propfirmdiscount.com/deals/fxify/fxify-35-off-all-other-programs-halloween/
+
+## FXIFY discount code FAQ
+
+**What is the FXIFY discount code?**
+
+FXIFY2WRIVW. It is verified by PropFirmDiscount.com and takes up to 10% off FXIFY challenges and accounts.
+
+**Does the FXIFY discount code expire?**
+
+No. It is a standing code — there is no start date and no end date. Promotional deals are separate and are dated individually; the current one is listed above.
+
+**How much is the current FXIFY deal?**
+
+**35% Off All Other Programs - Halloween** — published 2026-10-22. Offer ends: 2026-11-02 00:00. The offer is 35% off.
 
 ---
 
-## Latest Deal
-
-### FXIFY - 35% Off All Other Programs - Halloween
-
-**Published:** 2026-10-22  
-**Offer ends:** 2026-11-02 00:00  
-**Discount:** 35% off  
-**Scope:** All Other Programs, Instant Funding Lite Excluded  
-
-**Note:** This deal has a limited-time campaign code. Visit the deal page to get the code and full terms.  
-
-**Deal page:** https://propfirmdiscount.com/deals/fxify/fxify-35-off-all-other-programs-halloween/
-
----
-
-## Deal History
+## Deal history
 
 Total deals tracked: **40**
 
@@ -95,19 +112,20 @@ Total deals tracked: **40**
 
 ---
 
-## About This Repository
+## About this repository
 
-This repository tracks all historical deals for **FXIFY** published on PropFirmDiscount.com. Updated automatically from the live API.
+This repository mirrors every deal **FXIFY** has published on PropFirmDiscount.com, regenerated from the live API.
 
-**Data source:** PropFirmDiscount.com  
-**Prop firm profile:** https://propfirmdiscount.com/prop-firm/fxify/  
+- Data source: https://propfirmdiscount.com
+- Prop firm profile: https://propfirmdiscount.com/prop-firm/fxify/
+- All firms: https://github.com/propfirmdiscounts/prop-firm-discount-codes
 
 ## Freshness
 
-This mirror is synced from the live API on a schedule; the deal history
-above is the source of truth for what changed and when. Codes are
-re-verified continuously by the PropFirmDiscount team. Campaign codes
-come and go with each promotion; standing codes are re-verified yearly.
+Deal history above is the source of truth for what changed and when. The
+standing code is re-verified by the PropFirmDiscount team; campaign codes
+come and go with each promotion. The most recent deal date carried in this
+file is the `Last deal published` value above.
 
 ## License
 
