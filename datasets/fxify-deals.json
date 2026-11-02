@@ -1,5 +1,25 @@
 [
   {
+    "deal_id": 13093,
+    "title": "25% off plus two free add-ons in November",
+    "offer_type": "coupon",
+    "discount_value": "25%",
+    "scope": [
+      "Accounts Excluding Instant Funding Lite; Add-Ons Vary By Program"
+    ],
+    "date_published": "2026-11-02",
+    "date_exp": "Limited time",
+    "event": null,
+    "last_verified": "2026-11-02",
+    "post_url": "https://propfirmdiscount.com/deals/fxify/fxify-25-off-plus-free-addons-november/",
+    "prop_firm": "FXIFY",
+    "prop_firm_slug": "fxify",
+    "standing_code": "FXIFY2WRIVW",
+    "standing_discount": "10%",
+    "activation_link": "https://propfirmdiscount.com/go/fxify",
+    "firm_page_url": "https://propfirmdiscount.com/prop-firm/fxify/"
+  },
+  {
     "deal_id": 13006,
     "title": "35% Off All Other Programs - Halloween",
     "offer_type": "coupon",
