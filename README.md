@@ -15,7 +15,7 @@ As of 2026-10-22, the verified FXIFY discount code is FXIFY2WRIVW — up to 10% 
 ## Current FXIFY deal: 35% Off All Other Programs - Halloween
 
 - Published: 2026-10-22
-- Offer ends: 2026-11-02 00:00
+- Offer ends: 2026-11-02 00:00 (ended)
 - Offer: 35% off
 - Event: Halloween
 - Scope: All Other Programs, Instant Funding Lite Excluded
@@ -34,7 +34,7 @@ No. It is a standing code — there is no start date and no end date. Promotiona
 
 **How much is the current FXIFY deal?**
 
-**35% Off All Other Programs - Halloween** — published 2026-10-22. Offer ends: 2026-11-02 00:00. The offer is 35% off.
+**35% Off All Other Programs - Halloween** — published 2026-10-22. Offer ends: 2026-11-02 00:00 (ended). The offer is 35% off.
 
 ---
 
@@ -46,8 +46,8 @@ Total deals tracked: **40**
 
 | Deal Date | Title | Discount | Expires | Event | Deal Link |
 |---|---|---|---|---|---|
-| 2026-10-22 | 35% Off All Other Programs - Halloween | 35% off | 2026-11-02 00:00 | Halloween | [View Deal](https://propfirmdiscount.com/deals/fxify/fxify-35-off-all-other-programs-halloween/) |
-| 2026-10-22 | 40% Off Instant Funding This Halloween | 40% off | 2026-11-02 00:00 | Halloween | [View Deal](https://propfirmdiscount.com/deals/fxify/fxify-40-off-instant-funding-halloween/) |
+| 2026-10-22 | 35% Off All Other Programs - Halloween | 35% off | 2026-11-02 00:00 (ended) | Halloween | [View Deal](https://propfirmdiscount.com/deals/fxify/fxify-35-off-all-other-programs-halloween/) |
+| 2026-10-22 | 40% Off Instant Funding This Halloween | 40% off | 2026-11-02 00:00 (ended) | Halloween | [View Deal](https://propfirmdiscount.com/deals/fxify/fxify-40-off-instant-funding-halloween/) |
 | 2026-10-15 | 40% Off Instant Funding Upfront Fees | 40% off | 2026-11-02 | — | [View Deal](https://propfirmdiscount.com/deals/fxify/fxify-40-off-instant-funding/) |
 | 2026-10-03 | 25% Off Challenge Pricing | 25% off | Limited time | — | [View Deal](https://propfirmdiscount.com/deals/fxify/fxify-25-off-evaluations/) |
 | 2026-09-24 | 40% Off $50K Trading Challenges | 40% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/fxify/fxify-40-off-50k-accounts/) |
