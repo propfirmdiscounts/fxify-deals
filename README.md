@@ -1,4 +1,4 @@
-# FXIFY Discount Code
+# FXIFY - Discount Codes & Deal History
 
 As of 2026-11-02, the verified FXIFY discount code is FXIFY2WRIVW — up to 10% OFF, works any time. Its current deals run their own limited-time campaign codes.
 
@@ -48,7 +48,7 @@ Total deals tracked: **41**
 | 2026-11-02 | 25% off plus two free add-ons in November | 25% off | Limited time | — | [View Deal](https://propfirmdiscount.com/deals/fxify/fxify-25-off-plus-free-addons-november/) |
 | 2026-10-22 | 35% Off All Other Programs - Halloween | 35% off | 2026-11-02 00:00 (ended) | Halloween | [View Deal](https://propfirmdiscount.com/deals/fxify/fxify-35-off-all-other-programs-halloween/) |
 | 2026-10-22 | 40% Off Instant Funding This Halloween | 40% off | 2026-11-02 00:00 (ended) | Halloween | [View Deal](https://propfirmdiscount.com/deals/fxify/fxify-40-off-instant-funding-halloween/) |
-| 2026-10-15 | 40% Off Instant Funding Upfront Fees | 40% off | 2026-11-02 | — | [View Deal](https://propfirmdiscount.com/deals/fxify/fxify-40-off-instant-funding/) |
+| 2026-10-15 | 40% Off Instant Funding Upfront Fees | 40% off | 2026-11-02 (ended) | — | [View Deal](https://propfirmdiscount.com/deals/fxify/fxify-40-off-instant-funding/) |
 | 2026-10-03 | 25% Off Challenge Pricing | 25% off | Limited time | — | [View Deal](https://propfirmdiscount.com/deals/fxify/fxify-25-off-evaluations/) |
 | 2026-09-24 | 40% Off $50K Trading Challenges | 40% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/fxify/fxify-40-off-50k-accounts/) |
 | 2026-09-09 | 30% Off Evaluation Accounts Up To $400K | 30% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/fxify/fxify-30-off-evaluation-programs/) |
