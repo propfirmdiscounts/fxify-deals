@@ -16,8 +16,8 @@ concurrency:
   cancel-in-progress: false
 
 env:
-  HF_NAMESPACE: prop-firm
-  HF_REPO_NAME: fxify-discount-codes
+  HF_NAMESPACE: fxify
+  HF_REPO_NAME: fxify-deals
   FIRM_SLUG: fxify
   DEALSTORE_ID: 90
   FIRM_NAME: FXIFY
