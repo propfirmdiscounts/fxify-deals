@@ -1,6 +1,6 @@
 # FXIFY - Discount Codes & Deal History
 
-As of 2026-11, the verified FXIFY discount code is FXIFY2WRIVW — 10% OFF, works any time. Its current deals run their own limited-time campaign codes.
+As of November 2026, the verified FXIFY discount code is FXIFY2WRIVW — 10% OFF, which can be applied on the checkout page anytime. Its current deals run their own limited-time campaign codes.
 
 - Code: FXIFY2WRIVW
 - Discount: 10% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
