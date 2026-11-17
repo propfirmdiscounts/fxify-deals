@@ -6,7 +6,7 @@ As of November 2026, the verified FXIFY discount code is FXIFY2WRIVW — 10% OFF
 - Discount: 10% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
 - Valid: Standing code — no published expiry date
 - Last deal published: 2026-11-02
-- Trustpilot: 4.3/5 (6641 reviews)
+- Trustpilot: [4.3/5 (6675 reviews)](https://www.trustpilot.com/review/fxify.com)
 - GitHub repository: [FXIFY Deals Repository](https://github.com/propfirmdiscounts/fxify-deals)
 - Activate: [Activate FXIFY Discount Code](https://propfirmdiscount.com/go/fxify)
 - Firm page: [FXIFY Page on PropFirmDiscount](https://propfirmdiscount.com/prop-firm/fxify/)
