@@ -1,4 +1,4 @@
-# FXIFY Discount Codes
+# FXIFY Discount Code & Deals History
 
 This dataset tracks historical deal observations for FXIFY from PropFirmDiscount.com.
 

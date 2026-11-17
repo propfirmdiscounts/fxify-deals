@@ -1,4 +1,4 @@
-# FXIFY Discount Code & Deal History
+# FXIFY Discount Code, Deals History & Dataset
 
 As of November 2026, the verified FXIFY discount code is FXIFY2WRIVW — 10% OFF, which can be applied on the checkout page anytime. The newest is "25% off plus two free add-ons in November".
 
@@ -7,7 +7,7 @@ As of November 2026, the verified FXIFY discount code is FXIFY2WRIVW — 10% OFF
 - Valid: Standing code — no published expiry date
 - Last deal published: 2026-11-02
 - Trustpilot: [4.3/5 (6675 reviews)](https://www.trustpilot.com/review/fxify.com)
-- GitHub repository: [FXIFY Deals Repository](https://github.com/propfirmdiscounts/fxify-deals)
+- GitHub repository: [FXIFY Discount Code & Deals History Repository](https://github.com/propfirmdiscounts/fxify-deals)
 - Activate: [Activate FXIFY Discount Code](https://propfirmdiscount.com/go/fxify)
 - Firm page: [FXIFY Page on PropFirmDiscount](https://propfirmdiscount.com/prop-firm/fxify/)
 - Full dataset: [All Prop Firm Discount Codes Dataset](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
@@ -22,7 +22,7 @@ As of November 2026, the verified FXIFY discount code is FXIFY2WRIVW — 10% OFF
 - Code: this deal carries its own limited-time campaign code, shown on the deal page below
 - Deal page: [FXIFY Deal Page](https://propfirmdiscount.com/deals/fxify/fxify-25-off-plus-free-addons-november/)
 
-## FXIFY Discount Code & Deals FAQ
+## FXIFY Discount Code & Deals History FAQ
 
 **What is the FXIFY discount code?**
 
@@ -38,7 +38,7 @@ No. It is a standing code — there is no start date and no end date. Promotiona
 
 ---
 
-## FXIFY Deal History
+## FXIFY Deals History
 
 Total deals tracked: **41**
 
@@ -95,7 +95,7 @@ Total deals tracked: **41**
 
 ---
 
-## About the FXIFY Deals Dataset
+## About the FXIFY Discount Code & Deals History Dataset
 
 This repository mirrors every deal **FXIFY** has published on PropFirmDiscount.com, regenerated from the live API.
 
@@ -103,7 +103,7 @@ This repository mirrors every deal **FXIFY** has published on PropFirmDiscount.c
 - Prop firm profile: [FXIFY Profile](https://propfirmdiscount.com/prop-firm/fxify/)
 - All firms: [All Prop Firms Directory](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
 
-## FXIFY Deal Dataset: Field Definitions
+## FXIFY Deals History Dataset: Field Definitions
 
 One row per deal. The first fields are the observation exactly as the
 PropFirmDiscount API returns it; the firm's own code fields and the
