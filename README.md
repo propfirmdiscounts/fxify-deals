@@ -1,6 +1,6 @@
 # FXIFY Discount Code, Deals History & Dataset
 
-As of November 2026, the verified FXIFY discount code is FXIFY2WRIVW — 10% OFF, which can be applied on the checkout page anytime. The newest is "25% off plus two free add-ons in November".
+As of November 2026, the verified FXIFY discount code is FXIFY2WRIVW — 10% OFF, which can be applied on the checkout page anytime. The newest is "Black Friday 35% Off".
 
 - Code: FXIFY2WRIVW
 - Discount: 10% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
@@ -13,14 +13,15 @@ As of November 2026, the verified FXIFY discount code is FXIFY2WRIVW — 10% OFF
 - Full dataset: [All Prop Firm Discount Codes Dataset](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
 - Code record: [FXIFY API Record](https://propfirmdiscount.com/api/prop-firm-codes/)
 
-## Latest FXIFY deal: 25% off plus two free add-ons in November
+## Latest FXIFY deal: Black Friday 35% Off
 
-- Published: 2026-11-02
-- Offer ends: Limited time
-- Offer: 25% off
-- Scope: Accounts Excluding Instant Funding Lite; Add-Ons Vary By Program
+- Published: 2026-11-17
+- Offer ends: 2026-12-09 23:59
+- Offer: 35% off
+- Event: Black Friday
+- Scope: All Programs (Excl. Instant Funding Lite)
 - Code: this deal carries its own limited-time campaign code, shown on the deal page below
-- Deal page: [FXIFY Deal Page](https://propfirmdiscount.com/deals/fxify/fxify-25-off-plus-free-addons-november/)
+- Deal page: [FXIFY Deal Page](https://propfirmdiscount.com/deals/fxify/fxify-black-friday-35-off-all-programs/)
 
 ## FXIFY Discount Code & Deals History FAQ
 
@@ -34,18 +35,19 @@ No. It is a standing code — there is no start date and no end date. Promotiona
 
 **How much is the current FXIFY deal?**
 
-**25% off plus two free add-ons in November** — published 2026-11-02. Offer ends: Limited time. The offer is 25% off.
+**Black Friday 35% Off** — published 2026-11-17. Offer ends: 2026-12-09 23:59. The offer is 35% off.
 
 ---
 
 ## FXIFY Deals History
 
-Total deals tracked: **41**
+Total deals tracked: **42**
 
-### 2026 (25 deals)
+### 2026 (26 deals)
 
 | Deal Date | Title | Discount | Expires | Event | Deal Link |
 |---|---|---|---|---|---|
+| 2026-11-17 | FXIFY: Black Friday 35% Off | 35% off | 2026-12-09 23:59 | Black Friday | [View Deal](https://propfirmdiscount.com/deals/fxify/fxify-black-friday-35-off-all-programs/) |
 | 2026-11-02 | FXIFY: 25% off plus two free add-ons in November | 25% off | Limited time | — | [View Deal](https://propfirmdiscount.com/deals/fxify/fxify-25-off-plus-free-addons-november/) |
 | 2026-10-22 | FXIFY: 35% Off All Other Programs - Halloween | 35% off | 2026-11-02 00:00 (ended) | Halloween | [View Deal](https://propfirmdiscount.com/deals/fxify/fxify-35-off-all-other-programs-halloween/) |
 | 2026-10-22 | FXIFY: 40% Off Instant Funding This Halloween | 40% off | 2026-11-02 00:00 (ended) | Halloween | [View Deal](https://propfirmdiscount.com/deals/fxify/fxify-40-off-instant-funding-halloween/) |
